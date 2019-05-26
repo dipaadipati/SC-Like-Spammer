@@ -7,9 +7,8 @@ SYARAT
 
 Langkah-Langkah:
 1. klik Extension Tampermonkey yang sudah ter-install dan klik "Create a new script..".
-2. buka lah tab baru dengan link www.arfzone.xyz/SC-Like-Spammer.js
-3. Copy semua teks disana dan paste ke aplikasi Tampermonkey
-4. Klik File dan klik Save
+2. Copy semua teks di file # like.js # dan paste ke aplikasi Tampermonkey
+3. Klik File dan klik Save
 
 
 Gunakan aplikasi ini sebaik-baiknya dan tidak menyalahgunakan penggunaan aplikasi ini.
