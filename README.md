@@ -1,4 +1,3 @@
-# SC-Like-Spammer
 # Cara Spam Like di StreamCraft
 
 SYARAT
