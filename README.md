@@ -3,7 +3,7 @@
 SYARAT
 1. HARUS MENGGUNAKAN KOMPUTER ATAU LAPTOP.
 2. menggunakan Chrome atau Firefox. (SARAN CHROME karena mempercepat proses LIKE)
-3. WAJIB unduh extension "Tampermonkey" di browsermu.
+3. WAJIB unduh extension [Tampermonkey](https://www.tampermonkey.net/) di browsermu.
 
 Langkah-Langkah:
 1. klik Extension Tampermonkey yang sudah ter-install dan klik "Create a new script..".
